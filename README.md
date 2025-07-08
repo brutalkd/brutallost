@@ -13,7 +13,7 @@
             
             
             
-            coming soon ❗️
+            coming soon 🗽
 
 
 
