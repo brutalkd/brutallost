@@ -17,8 +17,8 @@ background-position: center center; /* Centers the image */
 background-repeat: no-repeat; /* Prevents the image from repeating */
 background-attachment: fixed; /* Keeps the background fixed */
 /* --- END BACKGROUND IMAGE LINES --- */
-/* Dark background */  
-            color: #ffffff; /* White text */  
+/* grey background */  
+            color: #ffffff; /* blue text */  
             display: flex;  
             justify-content: center;  
             align-items: center;  
