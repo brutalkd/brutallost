@@ -13,7 +13,7 @@
             
             
             
-            coming soon 🗽
+                    coming soon 🗽
 
 
 
@@ -23,4 +23,4 @@
 
 
 
-Reclaiming the lost,defining the brutal.© 
+      Reclaiming the lost,defining the brutal.© 
