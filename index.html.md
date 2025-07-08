@@ -10,7 +10,14 @@
             margin: 0;  
             padding: 0;  
             font-family: 'Montserrat', sans-serif;  
-            background-color: #1a1a1a; /* Dark background */  
+             /* --- ADD THESE LINES FOR BACKGROUND IMAGE --- */
+background-image: url('YOUR_IMAGE_FILENAME.jpg'); /* Replace with the actual filename you uploaded */
+background-size: cover; /* Ensures the image covers the entire screen */
+background-position: center center; /* Centers the image */
+background-repeat: no-repeat; /* Prevents the image from repeating */
+background-attachment: fixed; /* Keeps the background fixed */
+/* --- END BACKGROUND IMAGE LINES --- */
+/* Dark background */  
             color: #ffffff; /* White text */  
             display: flex;  
             justify-content: center;  
